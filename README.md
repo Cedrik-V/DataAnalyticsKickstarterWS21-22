@@ -25,10 +25,19 @@ Welche Daten liegen vor?
     13.	usd_goal_real: Goal amount in USD
 
 •	Welche Daten fehlen? Wie sollen diese erhoben werden?
-•	Ist eine Zielvariable erforderlich/liegt sie vor? (z.B. bei einer Klassifikation: sind Informationen über die positiven und negativen Klassenzugehörigkeiten vorhanden? Gibt es ausreichend Beispielen zu beiden Fällen?)
+•	Ist eine Zielvariable erforderlich/liegt sie vor? (z.B. bei einer Klassifikation: sind Informationen über die positiven und negativen Klassenzugehörigkeiten vorhanden? Gibt es ausreichend Beispielen zu beiden Fällen?) Regressionsmodell: Wie wahrscheinlich ist ein Erfolg?
+
 •	Was ist bezüglich Datenschutz, Datensicherheit und Ethik zu bedenken?
-•	Welche analytische(n) Fragestellung(en) müssen bearbeitet werden? Welche Arten von Modellen werden benötigt?
+der datensatz an sich ist relativ unbedenklich, creatormund teamanalyse als attribut könnte zu bias führen.
+haben creatir schon mehrere gescheiterte projekte-> bias
+
+•	Welche analytische(n) Fragestellung(en) müssen bearbeitet werden? 
+
+-Welche Arten von Modellen werden benötigt?
+
 •	Welche nicht-funktionalen Anforderungen bestehen (z.B. Verständlichkeit des Modell, Skalierbarkeit, Echtzeitfähigkeit, …)?
+Verständlichkeit des Modells ist sehr wichtig-> um aus prozentzahl der wahrscheinlichkeit die relevnaten attribute und einflüsse bestimmen zu können, um daraus basierend  das projekt zu optimieren.
+
 •	Sonstiges
 
 
