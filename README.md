@@ -31,4 +31,15 @@ Welche Daten liegen vor?
 •	Welche nicht-funktionalen Anforderungen bestehen (z.B. Verständlichkeit des Modell, Skalierbarkeit, Echtzeitfähigkeit, …)?
 •	Sonstiges
 
+
+Projektfragen
+
+-Modell: Die Erfolgschancen eines Projektes     vor dem Release bestimmen kann
+-zeitliche Betrachtung: Gibt es Trendverämderung anhand der zeitachse in den daten?
+--welche attribute sind am relevantesten für den Projekterfolg
+-Projektbeschreibung als relevnates <attribut untersuchen
+-wieso so viele Projekte in den usa, und nicht in de      
+- creator mit mehreren Projekten: haben die mehr erfolg?
+- Team als relevantes Attribut: Zusammnesetzung, alter, Präsentation
+
   
