@@ -1,5 +1,7 @@
-DataAnalyticsKickstarterWS21-22
+# DataAnalyticsKickstarterWS21-22 #
+Anmerkung: Im Ordner Endabgabe sind unsere finalen Notebooks für die verschiedenen Vorlesungsthemen.
 
+## Kurzbeschreibung: ## 
 Kickstarter ist eine Crowdfunding-Plattform, um die Realisierung kreativer Projekte zu ermöglichen. Menschen aus der ganzen Welt können Projekte mit unterschiedlichen Themen und Zielen erstellen und ebenso unterstützen.
 Seit dem Start von Kickstarter am 28. April 2009 haben 21 Millionen Menschen mehr als 6,3 Milliarden Dollar aufgebracht, um 213.752 Projekte zu unterstützen. Die Projekte reichen von kreativen Bereichen wie Musik, Theater und Tanz bis hin zu technologischen Projekten zur Umsetzung von Software und Hardware. Dementsprechend liefert Kickstarter eine Plattform, um das nötige Budget für interessante Projekte aller Art bereitzustellen und dabei Creator mit Unterstützern zusammenzuführen.
 
